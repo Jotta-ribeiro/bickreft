@@ -8,6 +8,9 @@
 /* home */
 @import"./global/home/introducao.css";
 
+/* Bicicletas */
+@import"./bicicletas/bicicleta-lista.css";
+
 
 
 
