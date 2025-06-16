@@ -7,9 +7,11 @@
 
 /* home */
 @import"./global/home/introducao.css";
+@import"./global/home/tecnologia.css";
 
 /* Bicicletas */
 @import"./bicicletas/bicicleta-lista.css";
+
 
 
 
